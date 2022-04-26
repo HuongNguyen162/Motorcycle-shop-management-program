@@ -1,0 +1,39 @@
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.ResolveComReference.cache
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\bin\Debug\IS11A03_Nhom07_QuanLySuaXe.exe
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\bin\Debug\IS11A03_Nhom07_QuanLySuaXe.pdb
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csprojResolveAssemblyReference.cache
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmXeMay.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.Properties.Resources.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.GenerateResource.Cache
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.exe
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.pdb
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmPhuTung.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmTimKiemPhuTung.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmHoaDonNhap.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmBaoCaoTongTien.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmBaoCaoTopKH.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmYeuCauSuaChua.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmKhachHang.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmMain.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmNhanVien.resources
+D:\CSLT2\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmTimKiemNhanVien.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\bin\Debug\IS11A03_Nhom07_QuanLySuaXe.exe
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\bin\Debug\IS11A03_Nhom07_QuanLySuaXe.pdb
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.AssemblyReference.cache
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.ResolveComReference.cache
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmBaoCaoTongTien.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmBaoCaoTopKH.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmKhachHang.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmMain.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmNhanVien.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmPhuTung.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmTimKiemNhanVien.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmTimKiemPhuTung.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmXeMay.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmHoaDonNhap.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.frmYeuCauSuaChua.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.Properties.Resources.resources
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.GenerateResource.cache
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.csproj.CoreCompileInputs.cache
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.exe
+D:\Các môn học\Kì I\Cơ sở lập trình 2\BTL\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\IS11A03_Nhom07_QuanLySuaXe\obj\Debug\IS11A03_Nhom07_QuanLySuaXe.pdb
